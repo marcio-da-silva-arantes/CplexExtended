@@ -1,5 +1,5 @@
 # CplexExtended
-Library that extends IBM ILOG CPLEX Api to use powerfull logic equations and enable some stocastiacal constraints definition, only for java developers
+Library that extends IBM ILOG CPLEX Api to use powerfull logic equations and definition of stochastic models, only for java developers
 
 ## Dependences
 1. IBM ILOG CPLEX Optimization Studio (https://www.ibm.com/), steps:
